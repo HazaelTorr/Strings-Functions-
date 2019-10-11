@@ -2,7 +2,7 @@
 #include <string.h>
 #define N 10
 
-/*Objetivo del programa: Recibir un arreglo de tamaño N y un numero dado por el usuario,
+/*Objetivo del programa: Recibir un arreglo de tamaÃ±o N y un numero dado por el usuario,
 el programa debera buscar el numero en el arreglo y regresar la posicion en la que se
 encuentra y en caso de no encontrarse regresar un -1*/
 
